@@ -31,3 +31,7 @@ Windows10, GPU推論を行いたい場合はCUDAが動作するNVIDIA GPU(GTX 10
 ### 推論実行中
 
 ![img01.png](./img/img03.png)
+
+# License
+
+The source code is licensed MIT, see LICENSE.
