@@ -8,7 +8,7 @@ Whisper(OpenAI)を利用したPC音声の文字起こしツールです。CUDA�
 
 ## インストール方法
 
-ReleaseからWhisperAutoTranscriber.7zをダウンロードして、解凍してください。
+[Release](https://github.com/Kotetsu0000/WhisperAutoTranscriber/releases)からWhisperAutoTranscriber.7zをダウンロードして、解凍してください。
 
 ## 実行方法
 
