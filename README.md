@@ -1,6 +1,6 @@
 # WhisperAutoTranscriber
 
-Whisper(OpenAI)を利用したPC音声の文字起こしツールです。CUDAが使用できる場合はGPUでの動作も可能です。
+Whisper(OpenAI)を利用したPC音声の文字起こしツールです。NVIDIA GPUの場合はGPUでの動作も可能です。
 
 モデルサイズなどは最適なものを自動で選択してくれます。
 
