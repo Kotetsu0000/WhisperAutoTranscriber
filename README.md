@@ -1,0 +1,2 @@
+# WhisperAutoTranscriber
+Whisper(OpenAI)を利用したPC音声の文字起こしツール
